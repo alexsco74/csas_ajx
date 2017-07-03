@@ -1,0 +1,8 @@
+.csas-ajx-lad-prs {
+    opacity: .2;
+    cursor: wait;
+    -webkit-transition: all .5s ease-out;
+    -moz-transition: all .5s ease-out;
+    -o-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+}

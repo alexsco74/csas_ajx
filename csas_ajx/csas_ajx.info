@@ -1,0 +1,6 @@
+name = Csas ajax
+description = Csas ajax
+package = Csas
+version = VERSION
+core = 7.x
+;configure = admin/config/content/csas_ajx
